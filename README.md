@@ -12,3 +12,9 @@ il doit noter entre 1 et 10 les différentes activités disponibles comme le mus
 Après que tout le membres sont enrengistrés il suffit de cliquer sur le bouton Reconstruire les Groupes et c'est bon.
 
 Un algorithme a du être spécialement concus pour résoudre ce problème.
+
+
+Le programme se divise en 3 fichiers:
+  main.py: le fichier principal qui peret d'exécuter tout le prgramme
+  constructeur.py: contient l'algorithme premettant de généerer les groupes
+  donnees.dr: fichier de sauvegarde des utilisateurs et des groupes
