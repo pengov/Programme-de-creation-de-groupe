@@ -486,7 +486,7 @@ tk.config( menu = menu )
 
 #       objet tkinter
 BoutonAccueil = Button( tk, text = 'Accueil', command = Affichage )
-BoutonNouveauGroupe = Button( tk, text = 'Reconstruir les groupes', command = NouveauGroupe )
+BoutonNouveauGroupe = Button( tk, text = 'Reconstruire les Groupes', command = NouveauGroupe )
 
 BoutonSuivantGroupe = Button( tk, text = 'Groupe\nSuivant', command = SuivantGroupe )
 BoutonRetourGroupe = Button( tk, text = 'Groupe\nPrécédent', command = RetourGroupe )
